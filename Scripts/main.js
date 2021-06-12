@@ -1,0 +1,1 @@
+alert("i amm a script create for programer");
